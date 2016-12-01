@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopTal - Codility-Test - Task1", "TopTal - Codility-Test - Task1\TopTal - Codility-Test - Task1.csproj", "{AA76FC6B-59F2-4DFB-B740-D8E6D48CB3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopTal - Codility-Test - Task2", "TopTal - Codility-Test - Task2\TopTal - Codility-Test - Task2.csproj", "{8844BD95-C79F-4B66-8B82-1AD2E1E8FBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA76FC6B-59F2-4DFB-B740-D8E6D48CB3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA76FC6B-59F2-4DFB-B740-D8E6D48CB3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA76FC6B-59F2-4DFB-B740-D8E6D48CB3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA76FC6B-59F2-4DFB-B740-D8E6D48CB3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8844BD95-C79F-4B66-8B82-1AD2E1E8FBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8844BD95-C79F-4B66-8B82-1AD2E1E8FBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8844BD95-C79F-4B66-8B82-1AD2E1E8FBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8844BD95-C79F-4B66-8B82-1AD2E1E8FBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
